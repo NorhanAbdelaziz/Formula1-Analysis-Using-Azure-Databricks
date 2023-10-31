@@ -8,3 +8,5 @@ Data transformation and analysis were performed using Azure Databricks. The enti
 
 ## Solution Architecture 
 ![alt text](https://github.com/NorhanAbdelaziz/Formula1-Analysis-Using-Azure-Databricks/blob/main/images/Solution%20arch.PNG)
+
+The structure of the database is shown in the following ER Diagram and explained in the https://github.com/NorhanAbdelaziz/Formula1-Analysis-Using-Azure-Databricks/blob/main/images/ER%20diagram.png
