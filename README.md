@@ -7,5 +7,5 @@ and analysis purposes. The data is sourced from ergast.com, a website dedicated 
 Data transformation and analysis were performed using Azure Databricks. The entire process is orchestrated using Azure Data Factory.
 
 ## Solution Architecture 
-![Uploading image.png…]()
 
+![Uploading Solution arch.PNG…]()
