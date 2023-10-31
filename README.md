@@ -7,4 +7,4 @@ and analysis purposes. The data is sourced from ergast.com, a website dedicated 
 Data transformation and analysis were performed using Azure Databricks. The entire process is orchestrated using Azure Data Factory.
 
 ## Solution Architecture 
-![alt text]([http://url/to/img.png](https://github.com/NorhanAbdelaziz/Formula1-Analysis-Using-Azure-Databricks/blob/main/images/Solution%20arch.PNG)https://github.com/NorhanAbdelaziz/Formula1-Analysis-Using-Azure-Databricks/blob/main/images/Solution%20arch.PNG)
+![alt text](https://github.com/NorhanAbdelaziz/Formula1-Analysis-Using-Azure-Databricks/blob/main/images/Solution%20arch.PNG)
