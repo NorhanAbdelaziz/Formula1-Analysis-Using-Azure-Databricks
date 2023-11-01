@@ -35,3 +35,21 @@ Ingest all 8 files into Azure data lake.
 2. Monitor pipelines.
 3. Rerun failed pipelines.
 4. Set up alerts on failures
+
+## Databricks Reports
+
+![alt text](https://github.com/NorhanAbdelaziz/Formula1-Analysis-Using-Azure-Databricks/blob/main/images/Dominant%20Driver.PNG)
+
+![alt text](https://github.com/NorhanAbdelaziz/Formula1-Analysis-Using-Azure-Databricks/blob/main/images/Dominant%20Team.PNG)
+
+## Data Factory Pipeline
+
+#### pl_process_formula1_data
+![alt text](https://github.com/NorhanAbdelaziz/Formula1-Analysis-Using-Azure-Databricks/blob/main/images/pl_process_formula1_data.PNG)
+
+#### pl_ingest_formula1_data
+![alt text](https://github.com/NorhanAbdelaziz/Formula1-Analysis-Using-Azure-Databricks/blob/main/images/pl_ingest_formula1_data.PNG)
+
+#### pl_tranform_formula1_data
+![alt text](https://github.com/NorhanAbdelaziz/Formula1-Analysis-Using-Azure-Databricks/blob/main/images/pl_transform_formula1_data.PNG)
+
